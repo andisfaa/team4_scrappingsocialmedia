@@ -1,7 +1,9 @@
 # ♻️ Automated Twitter (X) Data Scraping & Preprocessing: Public Discussion on Organic & Inorganic Waste Management
 
 **Mata Kuliah:** Analisis Media Sosial (*Social Media Analysis*)
+
 **Dosen Pengampu:** Andi Hermanto, S.E., M.Si
+
 **Capaian Tugas:** Pengumpulan & Pembersihan Dataset Media Sosial Min. 1.000 Baris Data Unik
 
 ---
@@ -38,12 +40,12 @@ Dalam mengumpulkan data percakapan publik, kami memanfaatkan kombinasi **`tweet-
 
 ```
 +-------------------------------------------------------------------------------+
-|  Metode: Tweet-Harvest                    |  Metode Alternative: Twitter API v2 |
-+-------------------------------------------+-----------------------------------+
-| • Bebas biaya untuk riset & akademis      | • Akses search terbatas di tier   |
-| • Fleksibel untuk query kata kunci        |   Gratis / Membutuhkan $100+/bulan |
-| • Tanpa prosedur verifikasi dev account   | • Verifikasi akun developer rumit |
-| • Pengambilan data stabil via Session Token| • Limitasi query pencarian ketat  |
+|  Metode: Tweet-Harvest                     |  Metode Alternative: Twitter API v2  |
++------------------------------------------- +-----------------------------------+
+| • Bebas biaya untuk riset & akademis       | • Akses search terbatas di tier      |
+| • Fleksibel untuk query kata kunci         |   Gratis / Membutuhkan $100+/bulan   |
+| • Tanpa prosedur verifikasi dev account    | • Verifikasi akun developer rumit    |
+| • Pengambilan data stabil via Session Token| • Limitasi query pencarian ketat     |
 +-------------------------------------------------------------------------------+
 
 ```
